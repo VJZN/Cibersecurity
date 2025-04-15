@@ -1,2 +1,3 @@
 # Cibersecurity
 Projeto Seguranca CIBERNÉTICA e formação  para certificacao
+Estou iniciando minha trajetória profissional na área de cibersegurança e busco uma oportunidade para aplicar meus conhecimentos em sistemas e redes, automação de tarefas e programação. Apesar de ainda não ter experiência prática na área, estou comprometido com o aprendizado contínuo e tenho como valores fundamentais a ética, o respeito e a excelência no atendimento. Tenho grande interesse em atuar com segurança da informação, análise de vulnerabilidades e resposta a incidentes, contribuindo com a proteção de dados e sistemas da organização.
